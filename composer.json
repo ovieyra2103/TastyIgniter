@@ -23,7 +23,7 @@
     "paid": "https://tastyigniter.com/premium-support",
     "issues": "https://github.com/tastyigniter/TastyIgniter/issues",
     "forum": "https://forum.tastyigniter.com",
-    "discord": "https/tastyigniter.com/discord",
+    "discord": "https://tastyigniter.com/discord",
     "docs": "https://tastyigniter.com/docs",
     "source": "https://github.com/tastyigniter/TastyIgniter"
   },
@@ -34,9 +34,8 @@
     }
   },
   "require": {
-        "php": "^7.4|^8.0",
-       "require-dev":,
-        "ext-mbstring": "*",
+    "php": "^7.4|^8.0",
+    "ext-mbstring": "*",
     "laravel/framework": "^11.0",
     "laravel/tinker": "^2.10.1",
     "tastyigniter/core": "^4.0"
